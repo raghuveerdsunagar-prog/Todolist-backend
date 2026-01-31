@@ -19,7 +19,7 @@ The backend is built with Node.js, Express, and connects to a database (e.g.,MyS
 ---
 
 ## Tech Stack
-- Node.js
+- Node.js prisma
 - Express.js
 - Database: MySQL (specify what you used)
 - JWT Authentication (if implemented)
